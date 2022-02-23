@@ -18,10 +18,10 @@ widget2:
   text: 'Bangtan Sonyeondan, mejor conocido por sus siglas BTS, es un grupo surcoreano formado en Seúl en 2010 y que debutó en 2013 bajo la compañía Big Hit Music.​ Está compuesto por siete integrantes: Jin, Suga, J-Hope, RM, Jimin, V y Jungkook, quienes coescriben y coproducen la mayor parte de su material discográfico.'
   video: '<a href="https://www.youtube.com/watch?v=MBdVXkSdhwU" data-reveal-id="videoModal"><img src="https://music-land.social/NaydiCanulDzidz.github.io/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
-  title: "Download Theme"
+  title: "Musica de los 90'tas"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  text: '<em>All That She Wants - Ace of Base</em>Es fácil burlarse de este clásico dance-pop, con su cómico saxofón de sintetizador y una letra bastante tonta. Pero eso sería despreciar un tema que fue número uno en muchos países y además podrías enfadar a muchas personas que lo han escuchado más veces de las que pueden recordar.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -33,8 +33,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: https://www.youtube.com/watch?v=JmcA9LIIXWw&list=PL0Be65Ci2ktbcu91um0Nb6H0iZVRaP6cL
+  text: Quieres escuchar más musica ›
   style: alert
 permalink: /index.html
 #
